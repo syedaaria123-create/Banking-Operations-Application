@@ -1,0 +1,4 @@
+Name,Address,Phone,Email
+Aria,123 Main St,555-1111,aria@gmail.com
+Rodoshi,456 Oak Ave,555-2222,rodoshi@gmail.com
+Koli,789 Pine Ln,555-3333,koli@gmail.com

@@ -1,0 +1,4 @@
+LoanId,Amount,InterestRate,Term(months),AssociatedAccountNo
+SLoan001,10000.00,5.00,60,24-58502-2
+CLoan002,20000.00,7.50,48,2458507-3
+HLoan003,150000.00,4.00,360,24-59503-2

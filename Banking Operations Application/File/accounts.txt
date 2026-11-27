@@ -1,0 +1,4 @@
+AccountNo,AccountType,Balance,UserName
+24-58502-2,Savings,1500.00,Aria
+2458507-3,Checking,2500.00,Rodoshi
+24-59503-2,Savings,500.00,Koli
